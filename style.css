@@ -1,0 +1,38 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background: #8b64e8;
+}
+
+.header_div{
+    background-color: lightsalmon;
+    color:midnightblue;
+}
+
+.header_div p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:darkred;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.main_div button{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:maroon;
+letter-spacing: 3px;
+font-weight: bolder;
+width: 100px;
+margin-top: 10px;
+}
+
+.copy_right_footer{
+     position: fixed;
+     bottom: 0;
+     color: navy;
+     background-color: orangered;
+     text-align: center;
+     font-size: 30px;
+     width: 100%;
+     line-height: 50px;
+     text-shadow: 5px 5px 5px #fff;
+}
